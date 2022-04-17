@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mister-bitcoin/static/css/main.bc49259a.css",
+    "main.js": "/mister-bitcoin/static/js/main.26beb086.js",
+    "static/media/Domine-Bold.ttf": "/mister-bitcoin/static/media/Domine-Bold.3fb648f63a297576cb67.ttf",
+    "static/media/Domine-Regular.ttf": "/mister-bitcoin/static/media/Domine-Regular.18d21531de7b337f67c3.ttf",
+    "static/media/avatar.png": "/mister-bitcoin/static/media/avatar.e527c60596fd2efb3581.png",
+    "index.html": "/mister-bitcoin/index.html",
+    "main.bc49259a.css.map": "/mister-bitcoin/static/css/main.bc49259a.css.map",
+    "main.26beb086.js.map": "/mister-bitcoin/static/js/main.26beb086.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc49259a.css",
+    "static/js/main.26beb086.js"
+  ]
+}
